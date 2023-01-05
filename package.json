@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "nahals-med-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "A reference documentation for medical undergraduates",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/nahal04/nahals-med-docs.git"
   },
-  "author": "Shu Ding <g@shud.in>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
-  },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "author": "Nahal Rahman",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "2.0.1",
