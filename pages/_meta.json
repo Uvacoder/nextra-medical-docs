@@ -1,3 +1,9 @@
 {
-    "index": "Home"
+    "index": "Home",
+    "medicine": "Medicine",
+    "surgery": "Surgery",
+    "og": "Obstetrics and Gynaecology",
+    "paeds": "Paediatrics",
+    "ent": "Otorhynolaryngology",
+    "opthal": "Ophthalmology"
 }

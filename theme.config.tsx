@@ -10,6 +10,11 @@ const config: DocsThemeConfig = {
   footer: {
     text: "Nahal's Medical Documentation",
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: "%s - NMD"
+    }
+  }
 }
 
 export default config
